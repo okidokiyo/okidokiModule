@@ -6,10 +6,6 @@ import android.net.Uri
 import android.os.Environment
 import java.io.File
 
-/**
- *
- * @author Ethan on 2020-11-10
- */
 fun Context.simpleDownloader(
     url: String,
     filename: String,

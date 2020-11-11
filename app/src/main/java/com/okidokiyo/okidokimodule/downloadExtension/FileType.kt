@@ -1,9 +1,5 @@
 package com.okidokiyo.okidokimodule.downloadExtension
 
-/**
- *
- * @author Ethan on 2020-11-10
- */
 enum class FileType(
     val mimeType: String
 ) {
